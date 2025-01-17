@@ -1,6 +1,7 @@
-# FluidDial-CYD-Dial-Pendant-
-Rapaired FluidDial to work with cheap yellow display from Aliexpress
+# FluidDial: A CNC Pendant for FluidNC Firmware.
 
-Adapted libraries to work with this CYD: https://www.aliexpress.com/item/1005006110360174.html (I have no money from sharing this seller)
+<img src="http://wiki.fluidnc.com/hardware/fd1.png" alt="M5 Fluid Dial" height="500"><img src="http://wiki.fluidnc.com/cydpendant.jpg" alt="CYD Dial Pendant" height="500">
 
-Original repository: http://wiki.fluidnc.com/hardware/official/CYD_Dial_Pendant
+Wiki pages for more information: [M5 FluidDial Pendant (left image)](http://wiki.fluidnc.com/en/hardware/official/M5Dial_Pendant) and [CYD Dial Pendant (right image)](http://wiki.fluidnc.com/en/hardware/official/CYD_Dial_Pendant).
+
+Both have similar functionality and similar cost, using different hardware.
