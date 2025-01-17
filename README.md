@@ -8,7 +8,7 @@ Link to buy: https://www.aliexpress.com/item/1005006110360174.html (I have no mo
 
 Original repository: http://wiki.fluidnc.com/hardware/official/CYD_Dial_Pendant
 
-knight_rad.iant from RatRig mini mill discord. Thank you. 
+knight_rad.iant from RatRig mini mill discord. Thank you for helping me. 
 
 <img src="http://wiki.fluidnc.com/hardware/fd1.png" alt="M5 Fluid Dial" height="500"><img src="http://wiki.fluidnc.com/cydpendant.jpg" alt="CYD Dial Pendant" height="500">
 
